@@ -20,30 +20,34 @@ Follow these steps to install the IranIntl-TimeCorrection Chrome extension:
    - In the dropdown menu, select **Download ZIP**.
    - Save the ZIP file to your computer.
 
-2. **Extract the ZIP File:**
+## Download the Latest Release
+
+You can download the latest version from the [Releases page](https://github.com/KiaBoluki/IranIntl-TimeCorrection/releases/).
+
+1. **Extract the ZIP File:**
 
    - Locate the downloaded ZIP file on your computer.
    - Right-click the file and select **Extract All...** (or use your preferred extraction tool).
    - Choose a location to extract the files and click **Extract**.
 
-3. **Open Chrome Extensions Page:**
+2. **Open Chrome Extensions Page:**
 
    - Open Google Chrome.
    - In the top-right corner, click on the three vertical dots (More).
    - Go to **More Tools** > **Extensions**.
    - Alternatively, you can type `chrome://extensions/` in the address bar and press **Enter**.
 
-4. **Enable Developer Mode:**
+3. **Enable Developer Mode:**
 
    - In the Extensions page, enable **Developer mode** by toggling the switch in the upper-right corner.
 
-5. **Load the Extension:**
+4. **Load the Extension:**
 
    - Click on the **Load unpacked** button.
    - In the file dialog that opens, navigate to the folder where you extracted the ZIP file.
    - Select the folder and click **Open**.
 
-6. **Using the Extension:**
+5. **Using the Extension:**
    - After loading the extension, you should see the IranIntl-TimeCorrection icon in your Chrome toolbar.
    - Navigate to www.iranintl.com, and the extension will automatically adjust the TV schedule times based on your local timezone.
 
