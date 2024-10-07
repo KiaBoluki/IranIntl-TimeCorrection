@@ -17,6 +17,10 @@ Follow these steps to install the IranIntl-TimeCorrection Chrome extension:
    - In the dropdown menu, select **Download ZIP**.
    - Save the ZIP file to your computer.
 
+## Download the Latest Release
+
+You can download the latest version from the [Releases page](https://github.com/KiaBoluki/IranIntl-TimeCorrection/releases/).
+
 2. **Extract the ZIP File:**
 
    - Locate the downloaded ZIP file on your computer.
