@@ -9,3 +9,5 @@ When you open the Iran International tv website you will see the tv schedule on 
 ### Note:
 
 If you're using a VPN/Proxy to see the web page the time will be shown based on your IP so it may show wrong times.
+
+![Screenshot](Screenshot.png)
