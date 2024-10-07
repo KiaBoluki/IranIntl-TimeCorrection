@@ -1,7 +1,8 @@
 # IranIntl-TimeCorrection
 
+<div style="text-align:center;">
 <img src="./Screenshot.png" style="margin-inline:auto;"/>
-
+</div>
 _A Chrome extension to adjust the TV schedule displayed on www.iranintl.com._
 
 When you open the Iran International TV website, you’ll see the schedule on the left, but it’s set to Tehran time. If you're outside Iran, it might be confusing to know when the next program will air. This extension corrects the times and shows them based on your local timezone.
