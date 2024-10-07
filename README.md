@@ -1,13 +1,10 @@
 # IranIntl-TimeCorrection
 
-<div style="text-align:center">
-<img src="./Screenshot.png" />
-</div>
-A Chrome extension to adjust the TV schedule displayed on www.iranintl.com.
+<img src="./Screenshot.png" style="margin-inline:auto;"/>
+
+_A Chrome extension to adjust the TV schedule displayed on www.iranintl.com._
 
 When you open the Iran International TV website, you’ll see the schedule on the left, but it’s set to Tehran time. If you're outside Iran, it might be confusing to know when the next program will air. This extension corrects the times and shows them based on your local timezone.
-
----
 
 ## Installation Instructions
 
@@ -15,16 +12,13 @@ Follow these steps to install the IranIntl-TimeCorrection Chrome extension:
 
 1. **Download the Extension:**
 
-   - Go to the [repository](URL-to-your-repository).
+   You can download the latest version from the [Releases page](https://github.com/KiaBoluki/IranIntl-TimeCorrection/releases/).
+
+   **OR**
+
    - Click on the green **Code** button located at the top right of the repository page.
    - In the dropdown menu, select **Download ZIP**.
    - Save the ZIP file to your computer.
-
-## Download the Latest Release
-
-You can download the latest version from the [Releases page](https://github.com/KiaBoluki/IranIntl-TimeCorrection/releases/).
-
----
 
 2. **Extract the ZIP File:**
 
